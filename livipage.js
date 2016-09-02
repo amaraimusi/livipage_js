@@ -10,7 +10,7 @@ $( function() {
 
 
 /**
- * livipage.js | ページ内リンク先プレビュー
+ * livipage.js | Link destination preview.
  * 
  * ページ内リンクをクリックすると、リンク先をプレビュー表示する。
  * アンカーのclass属性にlivipageを追加するだけで使用可能。
