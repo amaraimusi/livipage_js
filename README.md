@@ -1,2 +1,7 @@
 # livipage_js
-ページ内リンクをクリックすると、リンク先をプレビュー表示する。
+
+
+Link destination preview.
+But the same domain only.
+
+k-uehara 2016-9-2
