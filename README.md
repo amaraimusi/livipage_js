@@ -2,6 +2,7 @@
 
 
 Link destination preview.
+When you click the link,A link will be displayed in the child screen.
 But the same domain only.
 
 
